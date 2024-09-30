@@ -6,3 +6,4 @@ Throughout the 24 challenges, you'll recreate components and layouts from popula
 
 1 - Spoiler Revealer.
 2 - Colorful Button.
+3 - Expanding Search Bar.
