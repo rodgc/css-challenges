@@ -5,3 +5,4 @@ Throughout the 24 challenges, you'll recreate components and layouts from popula
 ## Challenges
 
 1 - Spoiler Revealer.
+2 - Colorful Button.
