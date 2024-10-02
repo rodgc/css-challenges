@@ -8,3 +8,4 @@ Throughout the 24 challenges, you'll recreate components and layouts from popula
 2 - Colorful Button.
 3 - Expanding Search Bar.
 4 - CodePen Tile.
+5 - Loading Animation One.
